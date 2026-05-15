@@ -37,7 +37,7 @@ Display the image
 
 ## PROGRAM
 
-### Name:MOULIDHARAN.S
+### Name:SHREEDHAR KUMAR K J
 
 ### Register Number: 212224230265
 
@@ -210,18 +210,15 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-<img width="362" height="220" alt="3 1" src="https://github.com/user-attachments/assets/d2ba96e1-f213-46a4-9ca0-309f53bd0f70" />
-
+<img width="325" height="199" alt="image" src="https://github.com/user-attachments/assets/23597911-5504-4fc8-b1a6-d1a15fe1d25f" />
 
 ## Confusion Matrix
 
-<img width="1162" height="832" alt="3 2" src="https://github.com/user-attachments/assets/d05736ae-dae2-4aec-abae-7d91e00b96e7" />
-
+<img width="823" height="747" alt="image" src="https://github.com/user-attachments/assets/d7f1e662-338a-4cac-9296-5a6c6aed5bcb" />
 
 ## Classification Report
 
-<img width="603" height="470" alt="3 3" src="https://github.com/user-attachments/assets/e0253d5d-6375-4d2d-ae80-01304c32bb14" />
-
+<img width="615" height="474" alt="image" src="https://github.com/user-attachments/assets/a79777ed-3711-499f-b05f-b5493fbe9cdd" />
 
 ### New Sample Data Prediction
 
